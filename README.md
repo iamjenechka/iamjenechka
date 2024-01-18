@@ -31,7 +31,7 @@
 - 🎤 That's fantastic! Discovering a method for infinite self-learning and deepening expertise is truly remarkable.
 
 ## Contacts
-- 📧 Email: cyberalbert@protonmail.ch
+- 📧 [Email:] (mailto:cyberalbert@protonmail.ch)
 - 🐦 Twitter: @iamjenechka
-- 💼 LinkedIn: https://www.linkedin.com/indistractible
-- 🌐 Website: storyscape.me
+- 💼  [LinkedIn:](https://www.linkedin.com/in/zenops/ "My linkedin")
+- 🌐 Website: [storyscape.me:](https://storyscape.me)
