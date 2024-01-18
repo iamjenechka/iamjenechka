@@ -6,7 +6,7 @@
 - 🚀 Interested in Linux, DevOps, SRE, Golang, Business.
 
 # Currently
-- 🔭 I’m currently working on the 'psychology project'
+- 🔭 I’m currently working on the ['psychology project'](https://github.com/iamjenechka/psychology/blob/main/psy-misjudgment.md)
 
 ## Projects
 - 🌐 Step.app: Web3 fitness app that rewards people for moving.
@@ -34,8 +34,8 @@
 - 🎤 That's fantastic! Discovering a method for infinite self-learning and deepening expertise is truly remarkable.
 
 ## Contacts
-- Telegram: (https://t.me/solasence)
-- 📧 Email: (mailto:cyberalbert@protonmail.ch)
-- 🐦 Twitter: (https://twitter.com/iamjenechka)
-- 💼 LinkedIn: (https://www.linkedin.com/in/zenops/ "My linkedin")
-- 🌐 Website: [storyscape.me:](https://storyscape.me)
+- Telegram: [click me](https://t.me/solasence)
+- 📧 Email: [click me](mailto:cyberalbert@protonmail.ch)
+- 🐦 Twitter: [click me](https://twitter.com/iamjenechka)
+- 💼 LinkedIn: [click me](https://www.linkedin.com/in/zenops/ "My linkedin")
+- 🌐 Website: [storyscape.me](https://storyscape.me)
