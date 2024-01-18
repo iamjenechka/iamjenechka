@@ -5,6 +5,9 @@
 - 🎓 Graduated from NRNU MEPhI in Applied Mathematics & Cyber Security.
 - 🚀 Interested in Linux, DevOps, SRE, Golang, Business.
 
+# Currently
+- 🔭 I’m currently working on the 'psychology project'
+
 ## Projects
 - 🌐 Step.app: Web3 fitness app that rewards people for moving.
 - 🚀 Scoobe3D: a revolutionary 3D scanner that allows you to create seamless 3D models of any material
@@ -31,7 +34,8 @@
 - 🎤 That's fantastic! Discovering a method for infinite self-learning and deepening expertise is truly remarkable.
 
 ## Contacts
-- 📧 [Email:] (mailto:cyberalbert@protonmail.ch)
-- 🐦 Twitter: @iamjenechka
-- 💼  [LinkedIn:](https://www.linkedin.com/in/zenops/ "My linkedin")
+- Telegram: (https://t.me/solasence)
+- 📧 Email: (mailto:cyberalbert@protonmail.ch)
+- 🐦 Twitter: (https://twitter.com/iamjenechka)
+- 💼 LinkedIn: (https://www.linkedin.com/in/zenops/ "My linkedin")
 - 🌐 Website: [storyscape.me:](https://storyscape.me)
