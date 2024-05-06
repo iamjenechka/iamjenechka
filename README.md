@@ -10,8 +10,8 @@
 
 ## Projects
 - 🌐 Step.app: Web3 fitness app that rewards people for moving.
-- 🚀 Scoobe3D: a revolutionary 3D scanner that allows you to create seamless 3D models of any material
-- 🔧 Repair-shop: Vehicle Collision Repair Estimation & Bodyshop
+- 🚀 ['Scoobe3D'](https://scoobe3d.com): a revolutionary 3D scanner that allows you to create seamless 3D models of any material
+- 🔧 ['Repair-shop'](https://repair-shop.com.au): Vehicle Collision Repair Estimation & Bodyshop
 - 🔒  Getmobbit: Universal hybrid docking station for access to a virtual desktop, web browser, and unified communications services
 
 
