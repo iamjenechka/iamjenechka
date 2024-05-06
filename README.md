@@ -1,17 +1,21 @@
 # Hello, I'm Jenechka! 👋
 
+aka Powerhouse, honeywild, Jim
+
 ## About Me
 - 💼 Currently working at WildBerries as a DevOps Engineer.
 - 🎓 Graduated from NRNU MEPhI in Applied Mathematics & Cyber Security.
 - 🚀 Interested in Linux, DevOps, SRE, Golang, Business.
 
 # Currently
-- 🔭 I’m currently working on the ['psychology project'](https://github.com/iamjenechka/psychology/blob/main/psy-misjudgment.md)
+- 🔭 I’m currently working on the [psychology project](https://github.com/iamjenechka/psychology/blob/main/psy-misjudgment.md)
+
+
 
 ## Projects
 - 🌐 Step.app: Web3 fitness app that rewards people for moving.
-- 🚀 ['Scoobe3D'](https://scoobe3d.com): a revolutionary 3D scanner that allows you to create seamless 3D models of any material
-- 🔧 ['Repair-shop'](https://repair-shop.com.au): Vehicle Collision Repair Estimation & Bodyshop
+- 🚀 [Scoobe3D](https://scoobe3d.com): a revolutionary 3D scanner that allows you to create seamless 3D models of any material
+- 🔧 [Repair-shop](https://repair-shop.com.au): Vehicle Collision Repair Estimation & Bodyshop
 - 🔒  Getmobbit: Universal hybrid docking station for access to a virtual desktop, web browser, and unified communications services
 
 
