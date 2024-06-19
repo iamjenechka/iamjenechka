@@ -8,7 +8,7 @@ aka Powerhouse, honeywild, Jim
 - 🚀 Interested in Linux, DevOps, SRE, Golang, Business.
 
 # Currently
-- 🔭 I’m currently working on the [toryscape - Personal Evolution Through Story and Deeds ](https://storyscape.blog)
+- 🔭 I’m currently working on the [Storyscape - Personal Evolution Through Story and Deeds ](https://storyscape.blog)
 
 
 
