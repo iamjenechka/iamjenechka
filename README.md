@@ -8,7 +8,7 @@ aka Powerhouse, honeywild, Jim
 - 🚀 Interested in Linux, DevOps, SRE, Golang, Business.
 
 # Currently
-- 🔭 I’m currently working on the [psychology project](https://github.com/iamjenechka/psychology/blob/main/psy-misjudgment.md)
+- 🔭 I’m currently working on the [toryscape - Personal Evolution Through Story and Deeds ](https://storyscape.blog)
 
 
 
