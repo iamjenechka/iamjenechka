@@ -32,8 +32,10 @@ Full Stack DevOps Engineer with over 6 years of experience in creating, configur
 - Created Ansible playbooks for configuring blockchain nodes and related services.
 
 ### 2022-2023 — Step Labs, Full Stack DevOps Engineer
-- Designed CI/CD pipeline using GitLab CI/CD, resulting in faster deployments.
-- Led migration to Google Cloud with Infrastructure as Code (IaC) via Terraform.
+- **Designed and implemented the entire infrastructure from scratch** for production, testing, and development environments.
+- Created a CI/CD pipeline using GitLab CI/CD, leading to faster and more reliable deployments of web applications.
+- Migrated on-premises infrastructure to Google Cloud (GCE) using Infrastructure as Code (IaC) with Terraform.
+- Integrated automated testing into the deployment pipeline, reducing production bugs.
 
 ### 2018-2022 — Scoobe3D GmbH, IT Expert
 - Developed automated deployment pipelines and managed cloud resources using GitLab CI and IaC.
